@@ -63,7 +63,7 @@ ventana.author = "Rubén Téllez Gerardo"
 
 ventana.title("NMP para coliformes")
 
-ventana.iconbitmap(r"C:\Programación ExL\Calculadora_NMP\tubo.ico")
+#ventana.iconbitmap(r"C:\Programación ExL\Calculadora_NMP\tubo.ico")
 
 ventana.geometry("300x500")
 head = tk.Label(ventana, text = "Tablas - Cálculo para coliformes \nPara tubos con 10 mL, 1 mL y 0.1 mL (3 tubos cada uno)\nPor Rubén Téllez  v0.1.3 [3 decimales]", bg = "#faf0e6")
